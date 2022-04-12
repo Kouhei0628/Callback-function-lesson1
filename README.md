@@ -1,2 +1,3 @@
 # Callback-function-lesson1
-Just to understand callback function
+
+I created this to understand what a callback function is.
